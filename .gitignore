@@ -1,0 +1,67 @@
+# ------------------------
+# Python / FastAPI Backend
+# ------------------------
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Logs / debugging
+*.log
+*.pot
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+
+# Local data files (Excel storage)
+backend/data/*.xlsx
+
+# ------------------------
+# Node / React Frontend
+# ------------------------
+
+# Node modules
+frontend/node_modules/
+node_modules/
+
+# Build outputs
+frontend/dist/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor
+*.sw?
+
+# ------------------------
+# OS / Misc
+# ------------------------
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
